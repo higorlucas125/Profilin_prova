@@ -21,7 +21,7 @@ V–F–V–F
 F–V–F–V
 F–V–V–V
 
-R => 
+R => V–F–F–V
 
 ## Questão 2
 Considerando o tema da diversidade na área de STEMM, é CORRETO afirmar que:
