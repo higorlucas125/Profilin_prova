@@ -21,23 +21,26 @@ V–F–V–F
 F–V–F–V
 F–V–V–V
 
-R => 
+R => F–V–F–V
 
 ## Questão 2
 Considerando o tema da diversidade na área de STEMM, é CORRETO afirmar que:
 
 Escolha uma opção:
 
-Dentre os indivíduos que fazem partes de grupos sub-representados, não estão incluídas as pessoas
+a) Dentre os indivíduos que fazem partes de grupos sub-representados, não estão incluídas as pessoas
 com deficiência.
-Em 2015, 21% dos diplomas de doutorado da área de STEMM foram emitidos para indivíduos de
+
+b) Em 2015, 21% dos diplomas de doutorado da área de STEMM foram emitidos para indivíduos de
 grupos sub-representados.
-Tanto o número de pós-doutorandos quanto de ocupantes de corpo docente provenientes de grupos
+
+c) Tanto o número de pós-doutorandos quanto de ocupantes de corpo docente provenientes de grupos
 sub-representados vêm aumentando progressivamente a cada ano.
-Apenas 4% dos cargos de professores no mais alto nível na carreira universitária da área de ciências
+
+d) Apenas 4% dos cargos de professores no mais alto nível na carreira universitária da área de ciências
 básica em faculdades da área médica estadunidense são provenientes de grupos sub-representados.
 
-R => 
+R => b
 
 
 ## Questão 3
@@ -56,12 +59,12 @@ IV – A monitoria virtual pode ser utilizada em casos em que há fatores extern
 presencial, como no caso da pandemia de COVID-19.
 Escolha a afirmativa que é verdadeira, de acordo com o texto.
 Escolha uma opção:
-Apenas as afirmativas III e IV estão corretas.
-Apenas as afirmativas I, II e III estão corretas.
-Todas as afirmativas estão corretas.
-Apenas as afirmativas II, III e IV estão corretas
+a) Apenas as afirmativas III e IV estão corretas.
+b) Apenas as afirmativas I, II e III estão corretas.
+c) Todas as afirmativas estão corretas.
+d) Apenas as afirmativas II, III e IV estão corretas
 
-R => 
+R => c
 
 ## Questão 4 
 
@@ -75,7 +78,7 @@ positiva.
 Os grupos minoritários historicamente sub-representados foram os que tiveram maior probabilidade
 de ter uma transição positiva.
 
-R =>
+R => 
 
 ## Questão 5
 
